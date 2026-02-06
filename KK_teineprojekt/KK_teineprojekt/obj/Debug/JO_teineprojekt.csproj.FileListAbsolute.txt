@@ -1,0 +1,13 @@
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\bin\Debug\KK_teineprojekt.exe.config
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\bin\Debug\KK_teineprojekt.exe
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\bin\Debug\KK_teineprojekt.pdb
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.csproj.AssemblyReference.cache
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.Form1.resources
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.JO_form2.resources
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.JO_3.resources
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.JO_formmain.resources
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.Properties.Resources.resources
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.csproj.GenerateResource.cache
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\JO_teineprojekt.csproj.CoreCompileInputs.cache
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.exe
+C:\Users\johanna.okas\Documents\KTA25-OOP\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.pdb
